@@ -58,9 +58,9 @@ glfw.set_window_pos(window,200,200)
 glfw.set_window_size_callback(window, window_resize)
 glfw.make_context_current(window)
 
-x=0.25
-y=0.75
-z=0.2
+x=0.225
+y=0.325
+z=0.1
 
 frontpicx1=895/1377
 frontpicy1=87/567
